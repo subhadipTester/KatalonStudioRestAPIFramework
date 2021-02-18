@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemoTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2ac214a-1905-4917-860f-60c19f0a0285</testCaseGuid>
+   <variable>
+      <defaultValue>'Ronald Koeman'</defaultValue>
+      <description></description>
+      <id>489b3e0c-cf21-420e-b347-c5f2102856ed</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>
