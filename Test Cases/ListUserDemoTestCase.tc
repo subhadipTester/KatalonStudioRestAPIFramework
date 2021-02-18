@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is used for sample Git Commit of code</description>
+   <name>ListUserDemoTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c12c4970-f169-43c7-9f2b-afa0ce75ce61</testCaseGuid>
+</TestCaseEntity>
